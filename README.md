@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">Experimenting with Powerful Application Experiences | Flutter | Firebase | UI Designxxmanish</h3>
+<h3 align="center">Experimenting with Powerful Application Experiences | Flutter | Firebase | UI Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxxmanish&label=Profile%20views&color=0e75b6&style=flat" alt="maxxmanish" /> </p>
 
