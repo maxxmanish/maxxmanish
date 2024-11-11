@@ -34,3 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxxmanish&show_icons=true&locale=en" alt="maxxmanish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxxmanish&" alt="maxxmanish" /></p>
+
+<div align="center">
+    <img width="800" src="https://raw.githubusercontent.com/maxxmanish/maxxmanish/main/github-metrics.svg" alt="Metrics" />
+</div>
